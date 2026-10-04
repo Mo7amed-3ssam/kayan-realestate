@@ -1,0 +1,1 @@
+var a={production:!1,siteUrl:"http://localhost:4200",firebase:{apiKey:"AIzaSyCWboyHBBsNEQcgscQT-D-I-efpOXfoO6Q",authDomain:"al-kayan-group.firebaseapp.com",projectId:"al-kayan-group",storageBucket:"al-kayan-group.firebasestorage.app",messagingSenderId:"267868034952",appId:"1:267868034952:web:7fadfe98006048c3f2cc3d",measurementId:"G-MK635VHJXM"}};export{a};
